@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outDir": "./build/server"
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "tests",
+        "node_modules",
+        "typings"    
+    ]
+
+}

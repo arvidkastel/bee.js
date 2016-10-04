@@ -1,0 +1,1 @@
+export type Scalar = (number | boolean | Object | Date | String);

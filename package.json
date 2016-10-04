@@ -1,0 +1,23 @@
+{
+  "name": "bee.js",
+  "version": "0.0.1",
+  "description": "A library for performing BI operations in javascript",
+  "main": "index.js",
+  "dependencies": {
+    "es6-map": "^0.1.4",
+    "lodash": "^4.16.2",
+    "plotly": "^1.0.6"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "ts-loader": "^0.8.2",
+    "typescript": "^2.1.0-dev.20161004",
+    "typings": "^1.4.0",
+    "webpack": "^1.13.2"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Arvid Kästel",
+  "license": "ISC"
+}
